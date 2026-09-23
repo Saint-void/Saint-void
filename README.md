@@ -121,8 +121,10 @@ My long-term ambition is to build technology companies and products that contrib
 
 ## 📫 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/donaldsogolo/)
-* 𝕏 [X / Twitter](https://x.com/St_void2)
+* [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+ [LinkedIn](https://www.linkedin.com/in/donaldsogolo/)
+* [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]()
+ [X / Twitter](https://x.com/St_void2)
 * 💻 [GitHub](https://github.com/saint-void)
 
 Feel free to explore my repositories and projects.
